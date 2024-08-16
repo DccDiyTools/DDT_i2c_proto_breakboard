@@ -2517,7 +2517,7 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "/Users/dvilascsic/OHS/DccDiyTools/DDT_i2c_proto_breakboard/lib/S5B-PH-SM4-TB.stp"
+		(model "${KIPRJMOD}/lib/S5B-PH-SM4-TB.stp"
 			(offset
 				(xyz 0 -4.5 0)
 			)
